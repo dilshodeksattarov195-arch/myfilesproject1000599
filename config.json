@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacherpdate",
+        "uuid": 1320795,
+        "checksum": "sbb49"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
